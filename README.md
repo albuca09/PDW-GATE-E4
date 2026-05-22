@@ -1,4 +1,3 @@
-Segue um **README.md completo**, pronto para colar no GitHub.
 
 ````markdown
 # PDW-GATE: Gated Attribute-Specialized Temporal Experts for Radar Pulse Deinterleaving
