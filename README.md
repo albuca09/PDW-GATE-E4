@@ -1,5 +1,4 @@
 
-````markdown
 # PDW-GATE: Gated Attribute-Specialized Temporal Experts for Radar Pulse Deinterleaving
 
 This repository implements **PDW-GATE**, a gated mixture-of-experts framework for radar pulse deinterleaving using Pulse Descriptor Words (PDWs). The model learns pulse-level embeddings from interleaved radar pulse sequences and applies density-based clustering to recover emitter-specific pulse groups.
